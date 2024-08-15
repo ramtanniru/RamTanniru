@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Ram Tanniru]
+# Hi there! 👋 I'm Ram Tanniru
 
 ![Profile Views](https://komarev.com/ghpvc/?ramtanniru=your-github-username&style=flat-square)
 
