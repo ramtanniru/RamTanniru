@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ram Tanniru
 
-![Profile Views](https://komarev.com/ghpvc/?ramtanniru=your-github-username&style=flat-square)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=ramtanniru&style=flat-square) -->
 
 I'm a passionate **Full Stack Developer** and **UI/UX Designer** with a strong background in computer science. I'm currently in my final year of BTech at **VIT AP University**.
 
