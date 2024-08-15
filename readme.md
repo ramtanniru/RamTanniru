@@ -2,9 +2,8 @@
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=ramtanniru&style=flat-square) -->
 
-I'm a passionate **Full Stack Developer** and **UI/UX Designer** with a strong background in computer science. I'm currently in my final year of BTech at **VIT AP University**.
+I'm a passionate **Full Stack Developer** and **UI/UX Designer** with a strong background in computer science. I'm currently in my final year of B.Tech at **VIT AP University**.
 
----
 
 ## 🚀 Technologies & Tools
 
@@ -28,7 +27,7 @@ I'm a passionate **Full Stack Developer** and **UI/UX Designer** with a strong b
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
----
+
 
 ## 🌟 Key Projects
 - **[Portfolio](https://ram-tanniru.vercel.app/):** A responsive portfolio website built using the Next JS and Tailwind CSS with dark mode.
@@ -36,7 +35,7 @@ I'm a passionate **Full Stack Developer** and **UI/UX Designer** with a strong b
 - **[Medibot](https://github.com/ramtanniru/medibot):** A telemedicine web application developed using Next.js, Tailwind CSS, and the Gemini API.
 - **[University Website](https://vitap.ac.in):** Revamped the university website as part of a UI/UX internship, collaborating with a team of six designers.
 
----
+
 
 ## 🏆 Achievements
 
@@ -44,15 +43,15 @@ I'm a passionate **Full Stack Developer** and **UI/UX Designer** with a strong b
 - **1st Place** in Web Development Hackathon organized by NextGen Cloud Club for "Medibot".
 - **3rd Place** in SQL Hackathon organized by NextGen Cloud Club and Microsoft Student Chapter.
 
----
+
 
 ## 🔗 Let's Connect!
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-tanniru-12b35b222/)
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ramtanniru2)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white)](https://ram-tanniru.vercel.app/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://ram-tanniru.vercel.app/)
 
----
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramtanniru&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramtanniru&layout=compact&theme=radical)
