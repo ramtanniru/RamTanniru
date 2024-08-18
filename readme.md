@@ -60,4 +60,4 @@ I'm a passionate **Full Stack Developer** and **UI/UX Designer** with a strong b
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramtanniru&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramtanniru&show_icons=true&theme=radical)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ramtanniru&theme=radical)
+<!-- ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ramtanniru&theme=radical) -->
