@@ -58,7 +58,6 @@ I'm a passionate **Full Stack Developer** and **UI/UX Designer** with a strong b
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://ram-tanniru.vercel.app/)
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramtanniru&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramtanniru&layout=compact&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramtanniru&show_icons=true&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ramtanniru&theme=radical)
