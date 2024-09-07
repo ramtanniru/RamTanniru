@@ -4,6 +4,11 @@
 
 I'm a passionate **Full Stack Developer** and **UI/UX Designer** with a strong background in computer science. I'm currently in my final year of B.Tech at **VIT AP University**.
 
+## 👨‍💻 Leetcode Info
+
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ram_tanniru?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
 ## 🚀 Technologies & Tools
 
